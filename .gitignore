@@ -1,1 +1,20 @@
 log.txt
+// Put the name of the file you dont want saved on git repository. 
+you can also make sure whole files are ignored by doing /Nameoffolder. whole folder gets ignored. 
+
+
+
+step by step processs of using git 
+
+
+open git 
+create folder you want to store everything on desktop or wherever 
+right click git bash here on folder so it starts git commands from that folder. 
+
+
+
+git init. to intialise git on this folder. 
+git config user.name "Mohamed Khalaf"   git config user.email "khalafm048@gmail.com"
+
+create files touch index.html. touch git.js  touch gitignore  touch log.txt
+git status. shows what changes have been made to the git repository
